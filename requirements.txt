@@ -1,0 +1,4 @@
+#requirements.txt 
+pip install -r requirements.txt
+#(for Flask REST API)
+Flask==2.3.2
